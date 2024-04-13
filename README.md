@@ -113,6 +113,6 @@ if __name__ == "__main__":
 
 ```
 ### Output:
-![output]()
+![output](https://github.com/jhansi21005096/WDM_EXP5/blob/main/out-5.png)
 ### Result:
 Information Retrieval Using Boolean Model in Python has been implemented successfully
